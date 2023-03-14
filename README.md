@@ -1,14 +1,15 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Farid</h1>
-<h3 align="center">A passionate frontend developer from Reims</h3>
+<h3 align="center">A passionate developer from Reims</h3>
 
 - 🔭 I’m currently working on [Sankliché](https://github.com/Himeurfarid/Sankliche)
 
-- 🌱 I’m currently learning **php and symfony**
+- 🌱 I’m currently learning **PHP and Symfony**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Himeurfarid](https://github.com/Himeurfarid)
 
 - 📫 How to reach me **faridhimeur@outlook.fr**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
