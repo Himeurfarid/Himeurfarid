@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sankliché](https://github.com/Himeurfarid/Sankliche)
 
-- 🌱 I’m currently learning **PHP and Symfony**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himeurfarid](https://github.com/Himeurfarid)
 
