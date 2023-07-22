@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A passionate developer from Reims</h3>
 
-- 🔭 I’m currently working on [Sankliché](https://github.com/Himeurfarid/Sankliche)
+- 🔭 I’m currently working on my [Portfolio]
 
 - 🌱 I’m currently learning **TypeScript**
 
