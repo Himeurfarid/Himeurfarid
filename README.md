@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and SolidJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himeurfarid](https://github.com/Himeurfarid)
 
