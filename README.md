@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himeurfarid](https://github.com/Himeurfarid)
 
-- 📫 How to reach me **faridhimeur@outlook.fr**
+- 📫 How to reach me **faridhim@outlook.fr**
 
 
 <p align="left">
